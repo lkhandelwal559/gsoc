@@ -9,6 +9,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Bhavya Soni
 - Chinonso Ani
 - Elton Omwega
+- Love Khandelwal
 - Priscilla Baah
 - Gaurav Sarkar
 - Sage Abdullah
